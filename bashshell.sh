@@ -1,4 +1,10 @@
 #############################################
+# PREVENTION
+# Outbound firewall filtering
+# Block unknown external connections
+# Restrict /dev/tcp usage
+# Monitor unusual network processes
+#############################################
 # Listener IP and port
 IP="10.10.10.10"
 PORT="6767"
