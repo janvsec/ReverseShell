@@ -1,4 +1,11 @@
 #######################################
+# PREVENTION
+# Outbound firewall restrictions
+# Egress traffic monitoring
+# Process execution monitoring
+# Endpoint detection systems
+# Least privilege execution
+#######################################
 # Define the target IP address and port
 ip = "10.10.10.10"
 port = 6767
