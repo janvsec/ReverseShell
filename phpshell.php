@@ -1,4 +1,11 @@
 <?php
+#######################################
+# PREVENTION
+# Disable dangerous PHP functions
+# php.ini -> disable_functions=system,exec,shell_exec,passthru,popen
+# Input validation / command filtering
+# Web server least privilege
+# Web Application Firewall
 ######################################
 # EXAMPLE USAGE: phpshell.php?cmd=echo+COMMAND%20HERE+%26+dir
 # EXAMPLE COMMAND OUTPUT: echo COMMAND HERE & dir
