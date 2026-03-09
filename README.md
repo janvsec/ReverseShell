@@ -1,4 +1,2 @@
 # ReverseShell
-Simple reverse shell examples
-Basic examples, some of them can get flagged
-
+Documentation of reverse shell implementations in various programming languages, including detection and prevention techniques.
